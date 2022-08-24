@@ -1,0 +1,40 @@
+{
+  "name": "wheel-events",
+  "version": "1.0.0",
+  "description": "Detection of mouse wheel events around the swipe gesture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formfcw/wheel-events.git"
+  },
+  "keywords": [
+    "mouse",
+    "wheel",
+    "wheel events",
+    "events",
+    "detection",
+    "snap scroll",
+    "scroll snap",
+    "wheelstart",
+    "wheelstop",
+    "mousewheel",
+    "mouse",
+    "wheelscroll",
+    "wheelscrollstart",
+    "wheelscrollstop",
+    "ghostscroll",
+    "ghostscrollstart",
+    "ghostscrollstop",
+    "wheelswipe",
+    "swipe"
+  ],
+  "author": "formfcw <dev@formfcw.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/formfcw/wheel-events/issues"
+  },
+  "homepage": "https://github.com/formfcw/wheel-events#readme"
+}
