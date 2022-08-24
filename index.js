@@ -1,4 +1,3 @@
-
 export default function (element, options = {}) {
     const {
         velocity = 1.5,
